@@ -100,9 +100,9 @@ This section tracks weekly temperature fluctuations and helps identify short-ter
 
 # **📷 Dashboard Preview**
 
-![Dashboard Preview 1](https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(4).png)
-
 ![Dashboard Preview 2](https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(5).png)
+
+![Dashboard Preview 1](https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(4).png)
 
 ![Dashboard Preview 3](https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(6).png)
 
