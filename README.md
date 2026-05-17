@@ -100,12 +100,12 @@ This section tracks weekly temperature fluctuations and helps identify short-ter
 
 # **📷 Dashboard Preview**
 
-![Weather Impact Analysis Dashboard](https://github.com/tejaswini131123/YOUR-REPOSITORY-NAME/blob/main/2026-05-17%20(5).png)
-![Weather Impact Analysis Dashboard](https://github.com/tejaswini131123/YOUR-REPOSITORY-NAME/blob/main/2026-05-17%20(5).png)
-![Weather Impact Analysis Dashboard](https://github.com/tejaswini131123/YOUR-REPOSITORY-NAME/blob/main/2026-05-17%20(5).png)
-![Weather Impact Analysis Dashboard](https://github.com/tejaswini131123/YOUR-REPOSITORY-NAME/blob/main/2026-05-17%20(5).png)
-![Weather Impact Analysis Dashboard](https://github.com/tejaswini131123/YOUR-REPOSITORY-NAME/blob/main/2026-05-17%20(5).png)
-![Weather Impact Analysis Dashboard](https://github.com/tejaswini131123/YOUR-REPOSITORY-NAME/blob/main/2026-05-17%20(5).png)
+![Weather Impact Analysis Dashboard]((https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(4).png))
+![Weather Impact Analysis Dashboard]((https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(5).png))
+![Weather Impact Analysis Dashboard]((https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(6).png))
+![Weather Impact Analysis Dashboard]((https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(7).png))
+![Weather Impact Analysis Dashboard]((https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(8).png))
+![Weather Impact Analysis Dashboard]((https://github.com/tejaswini131123/Weather-Impact-Analysis/blob/main/2026-05-17%20(9).png))
 
 
 # **🚀 What I Learned**
